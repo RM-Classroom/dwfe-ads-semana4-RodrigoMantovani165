@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Rodrigo Cesar Santos Mantovani
+- Matricula: 919337
+- Proposta de projeto escolhida: Site de empresas de jogos digitais.
+- Breve descrição sobre seu projeto: O objetivo é apresentar uma empresa fictícia do ramo de jogos digitais. Assim o usuario vai poder saber informações os jogos e empresas, como por exemplo: comentarios sobre a empresas, uma breve descrições dos jogos. Contendo uma seção de destaque para jogos, descrição da empresa e uma área com cards apresentando os principais jogos desenvolvidos.
 
 
 ## Print do(s) wireframe(s) criado

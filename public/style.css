@@ -1,3 +1,91 @@
+/*   height= altura  // width= largura */
 body {
-    background-color: aquamarine;
+    background-color: black;
+}
+header{
+    display: flex;
+    margin: 20px;
+    height: 20%;
+    background-color: black;
+}
+header h1{
+    color: rgb(189, 130, 3);
+    font: 100 ;
+}
+button{
+    width: 30%;
+    height: 50px;
+    margin-left: 20%;
+    vertical-align: top ;
+    border-radius: 150px;
+    text-align: left;
+    font-size: x-large;
+    
+}
+.logo{
+    width: 150px;
+    height: auto;
+    margin-right: 5px;
+}
+section{
+    width: 100%;
+    color: white;
+    display: flex;
+  align-items: center;
+  gap: 30px;
+
+  max-width: 900px;
+  margin: 0 auto;
+}
+section h1, section  h2  {
+    text-align:center;
+    display: block;
+    
+}
+section h2 {
+  align-items: center;
+  text-align: center;
+}
+section img {
+    display: block;
+    width: 430px;
+    height: 430px;
+    margin: 50px;
+
+}
+#sec{
+    display:flex ;
+    border : 1px solid #ffff;
+}
+
+main{
+    display: flex;
+    width: calc(33% - 16px);
+    vertical-align: top;
+    margin: 50px;
+    color: white;
+    
+}
+main img{
+    width: 444px;
+    height: 444px;
+}
+main h1{
+    text-decoration: underline;
+}
+.gtaV{
+    float:left ;
+    margin: 50px;
+    border: 2px solid #ffff;
+    
+}
+.rd2{
+    margin: 50px;
+    border: 2px solid #ffff;
+    
+}
+.gtaSa{
+    margin: 50px;
+    border: 2px solid #ffff;
+    
 }

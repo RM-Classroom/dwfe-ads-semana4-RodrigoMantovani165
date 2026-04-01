@@ -56,6 +56,7 @@ section img {
 #sec{
     display:flex ;
     border : 1px solid #ffff;
+    border-radius: 10px;
 }
 
 main{
@@ -64,6 +65,7 @@ main{
     vertical-align: top;
     margin: 50px;
     color: white;
+    
     
 }
 main img{
@@ -77,15 +79,18 @@ main h1{
     float:left ;
     margin: 50px;
     border: 2px solid #ffff;
-    
+    border-radius: 10px;
+    padding: 10px;
 }
 .rd2{
     margin: 50px;
     border: 2px solid #ffff;
-    
+    padding: 10px;
+    border-radius: 10px;
 }
 .gtaSa{
     margin: 50px;
     border: 2px solid #ffff;
-    
+    padding: 10px;
+    border-radius: 10px;
 }
